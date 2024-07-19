@@ -1,3 +1,9 @@
+#' Prints 'Let's see what is your BMI!'
+#' @export
+Start <- function() {
+  print("Let's see whats is your BMI!")
+}
+
 #' Create BMI Groups
 #'
 #' More detailed description.
@@ -15,3 +21,5 @@ bmi3 <- function(x) {
   bmi.groups <- cut(x, breaks = c(0, 25, 30, Inf), right = FALSE)
   return(bmi.groups)
 }
+
+

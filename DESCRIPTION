@@ -4,7 +4,7 @@ Title: Exercise #6
 Version: 0.1.0
 Author: Dilara Tuncyürek
 Maintainer: Dilara Tuncyürek <d.tuncyuerek@campus.lmu.de>
-Description: Contains the function to sag "Hello User!" and create BMI groups.
+Description: Contains the function to say "Let's see whats is your BMI!" and create BMI groups.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
