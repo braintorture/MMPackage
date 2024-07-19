@@ -1,2 +1,2 @@
 # MMPackage
-Contains the function to sag "Hello User!" and create BMI groups.
+Contains the function to sag "Let's see whats is your BMI!" and create BMI groups.
